@@ -1,2 +1,5 @@
 langEnv/
 __pycache__/utils.cpython-312.pyc
+replacements.txt
+src/test/__pycache__/utils2.cpython-312.pyc
+src/__pycache__/utils.cpython-312.pyc
